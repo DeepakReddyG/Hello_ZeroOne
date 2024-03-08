@@ -41,3 +41,11 @@
     text-align: center;
     border-bottom: 1px solid #f1356d;
 }
+.additional-content{
+    margin-top:2rem;
+    text-align:center;
+}
+.additional-content p{
+    font-size:1.2rem;
+    colour:#333;
+}

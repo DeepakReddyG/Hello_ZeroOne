@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card {
+    width: 20vh;
+    display: flex;
+    flex-direction: column;
+}
+.card-one {
+    width: 100vh;
+}
+.card-one ing {
+    width: 100vh;
+}
+.card-two {
+    width: 100vh;
+    padding: 1rem;
+    border: 2px solid black;
+
+}
+.card-two h1 {
+    font-size: 1.5rem;
+}
+.card-two h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.card-two a {
+    text-decoration: none;
+    background-color: black;
+    color:aliceblue;
+    padding: 5px 10px;
+
+}

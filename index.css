@@ -1,43 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>codejam - ZeroOne</title>
+    <link rel="stylesheet" herf="index.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+            <div class="card-one">
+                <img src="ZOCC_logo.png" alt=""
+            </div>
+            <div class="card-two"> 
+                <h1>ZeroOne Code Club</h1>
+                <h2>Student Activity Center</h2>
+            
+                <a href="#">Join</a>
+            </div>
+        </div>
+    </div>
 
-    font-family: 'Poppins', sans-serif;
-}
-
-.container {
-    height: 100vh;
-}
-.heading {
-    margin: 2rem 0;
-    text-align: center;
-}
-.heading h1 {
-    color: #f1356d;
-    font-size: 4rem;
-    font-weight: 600;
-}
-
-.post-heading {
-    width: 100%;
-}
-.post-heading table {
-    width: 90%;
-    border-collapse: collapse;
-    margin: auto;
-}
-.post-heading table th {
-    background-color: #f1356d;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
-}
-
-.post-heading table td {
-    padding: 1rem 0;
-    text-align: center;
-    border-bottom: 1px solid #f1356d;
-}
+        
+</body>
+</html>    

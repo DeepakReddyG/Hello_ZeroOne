@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.one{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.one-in{
+    width: 20%;
+}
+
+.two{
+    border: 2px solid black;
+}
+.two img{
+    width: 100%;
+}
+
+.three{
+    padding: 1rem;
+    box-shadow:  rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.one-in:nth-child(2){
+    margin-left: 3rem;
+    margin-right:3rem;
+}
